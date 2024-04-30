@@ -13,7 +13,7 @@ Autor: [Inzunza Montaño Erick Geovanny]
   Fecha: [Fecha de creación]
 
   Descripción:
-  Este programa inicializa un parpadeo del let interno de la Raspberry Pi Pico W por medio de arduino IDE
+  Este programa imprime en la consola serial de arduino IDE la frase "Hello world"
   Licencia: [Tipo de licencia]
 
 void setup() {
@@ -27,3 +27,7 @@ void loop() {
   // Espera un momento para que puedas leer el mensaje
   delay(1000);
 }
+
+## Resultado en consola
+![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/1484fc85-977e-4883-b26c-2a6cf87bb2c0)
+
