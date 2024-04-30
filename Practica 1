@@ -1,4 +1,5 @@
-## Codigo 
+# Practica 1
+##   Codigo
 void setup() {
   // Inicializa la comunicación serial a 9600 baudios
   Serial.begin(9600);
