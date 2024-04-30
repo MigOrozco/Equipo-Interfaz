@@ -40,7 +40,7 @@ void loop() {
 ## Imagen de codigo en ArduinoIDE
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/6e4bac39-86b1-485c-9c7d-a320a83faf02)
 
-##Funcionamiento de la Raspberry Pi Pico W
+## Funcionamiento de la Raspberry Pi Pico W
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/c67b0aa0-73e0-4a30-af9d-11c394758280)
 
 
