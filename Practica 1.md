@@ -2,6 +2,7 @@
 ##   Codigo
 
  Programa: Control de Raspberry Pi Pico W
+ 
   Autor: [Aguilar Orozco Jose Miguel]
   
 Autor: [Álvarez Armenta Steve Jovanni]
