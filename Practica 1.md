@@ -27,6 +27,8 @@ void loop() {
   // Espera un momento para que puedas leer el mensaje
   delay(1000);
 }
+## Imagen del codigo en Arduino IDE
+![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/be37c874-012c-49ce-93df-048ef9dca12d)
 
 ## Resultado en consola
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/1484fc85-977e-4883-b26c-2a6cf87bb2c0)
