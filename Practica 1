@@ -1,5 +1,21 @@
 # Practica 1
 ##   Codigo
+
+ Programa: Control de Raspberry Pi Pico W
+  Autor: [Aguilar Orozco Jose Miguel]
+  
+Autor: [Álvarez Armenta Steve Jovanni]
+
+Autor: [Agatón Gutiérrez Daniel]
+
+Autor: [Inzunza Montaño Erick Geovanny]
+
+  Fecha: [Fecha de creación]
+
+  Descripción:
+  Este programa inicializa un parpadeo del let interno de la Raspberry Pi Pico W por medio de arduino IDE
+  Licencia: [Tipo de licencia]
+
 void setup() {
   // Inicializa la comunicación serial a 9600 baudios
   Serial.begin(9600);
