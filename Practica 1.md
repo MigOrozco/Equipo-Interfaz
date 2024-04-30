@@ -18,17 +18,13 @@ Autor: [Inzunza Montaño Erick Geovanny]
   Licencia: [Tipo de licencia]
 
 void setup() {
-
   // Inicializa la comunicación serial a 9600 baudios
-  
   Serial.begin(9600);
 }
 
 void loop() {
-
   // Imprime "Hello, World!" en la consola serial
   Serial.println("Hello, World!");
-  
   // Espera un momento para que puedas leer el mensaje
   delay(1000);
 }
