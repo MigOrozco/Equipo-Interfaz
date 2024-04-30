@@ -3,9 +3,13 @@
 /*
   Programa: Control de Raspberry Pi Pico W
   Autor: [Aguilar Orozco Jose Miguel]
+  
 Autor: [Álvarez Armenta Steve Jovanni]
+
 Autor: [Agatón Gutiérrez Daniel]
+
 Autor: [Inzunza Montaño Erick Geovanny]
+
   Fecha: [Fecha de creación]
 
   Descripción:
