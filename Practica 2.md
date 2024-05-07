@@ -1,5 +1,5 @@
 # Codigo del simulador
-
+```
 import ssd1306
 
 import utime
@@ -29,7 +29,7 @@ def show_text(text):
 
 Mostrar "Hola Mundo" en el display OLED
 show_text("Hola mundo")
-
+```
 
 # Imagen del codigo
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/105456145/1e50ee08-7d34-426e-8877-8ef6498c1dd2)
