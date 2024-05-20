@@ -6,7 +6,7 @@
   
 Autor: [Álvarez Armenta Steve Jovanni]
 
-Autor: [Agatón Gutiérrez Daniel]
+Autor: [Gutiérrez AgatonDaniel]
 
 Autor: [Inzunza Montaño Erick Geovanny]
 
