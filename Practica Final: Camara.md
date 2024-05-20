@@ -13,9 +13,9 @@ Autor: [Inzunza Montaño Erick Geovany]
 # Codigo de Arduino IDE
 ```
 include <Wire.h>
-include <OV7670.h>
+include <OV7675.h>
 
-OV7670 cam;
+OV7675 cam;
 
 void setup() {
   Serial.begin(115200);
