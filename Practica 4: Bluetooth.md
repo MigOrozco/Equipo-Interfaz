@@ -5,9 +5,9 @@
   
 Autor: [Álvarez Armenta Steve Jovanni]
 
-Autor: [Gutiérrez  Agaton Daniel]
+Autor: [Gutiérrez Agaton Daniel]
 
-Autor: [Inzunza Montaño Erick Geovanny]
+Autor: [Inzunza Montaño Erick Geovany]
 
 # Codigo 1
 ```
