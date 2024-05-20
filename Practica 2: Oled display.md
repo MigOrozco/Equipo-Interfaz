@@ -6,9 +6,9 @@
   
 Autor: [Álvarez Armenta Steve Jovanni]
 
-Autor: [Gutiérrez AgatonDaniel]
+Autor: [Gutiérrez Agaton Daniel]
 
-Autor: [Inzunza Montaño Erick Geovanny]
+Autor: [Inzunza Montaño Erick Geovany]
 
 # Comando código para desplegar un mensaje en Display OLED
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/1fd8ad80-bf97-484a-bb53-13440447f69c)
