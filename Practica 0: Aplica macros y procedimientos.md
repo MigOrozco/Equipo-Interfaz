@@ -1,5 +1,5 @@
 # Practica 0
-# Codigo de Arduino
+# Código de Arduino
 /*
   Programa: Control de Raspberry Pi Pico W
   Autor: [Aguilar Orozco Jose Miguel]
