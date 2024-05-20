@@ -43,10 +43,14 @@ void loop() {
       Serial.write(cam.getFrameBuffer()[i]);
     }
 
-```
+
     
     // Reinicia la captura
     cam.startCapture();
   }
 }
+```
+# Fotografia
+
+![camara2](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/61705399-5ac7-4711-ab88-b0946a67c697)
 
