@@ -6,9 +6,9 @@
   
 Autor: [Álvarez Armenta Steve Jovanni]
 
-Autor: [Agatón Gutiérrez Daniel]
+Autor: [ Gutiérrez Agatón  Daniel]
 
-Autor: [Inzunza Montaño Erick Geovanny]
+Autor: [Inzunza Montaño Erick Geovany]
 
   Fecha: [Fecha de creación]
 
