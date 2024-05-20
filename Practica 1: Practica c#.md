@@ -1,5 +1,6 @@
 # Integrantes
  Programa: Control de Raspberry Pi Pico W con C#
+ 
   Autor: [Aguilar Orozco Jose Miguel]
   
 Autor: [Álvarez Armenta Steve Jovanni]
@@ -8,7 +9,6 @@ Autor: [Agatón Gutiérrez Daniel]
 
 Autor: [Inzunza Montaño Erick Geovanny]
 
-  Fecha: [Fecha de creación]
   
 # Practica
 En esta parte se conecta al Pi pico
