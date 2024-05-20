@@ -7,7 +7,7 @@ Autor: [Álvarez Armenta Steve Jovanni]
 
 Autor: [Agatón Gutiérrez Daniel]
 
-Autor: [Inzunza Montaño Erick Geovanny]
+Autor: [Inzunza Montaño Erick Geovany]
 
   
 # Practica
