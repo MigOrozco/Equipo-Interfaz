@@ -6,4 +6,4 @@
 
  3. [Gutiérrez  Agatón Daniel]
 
- 4. [Inzunza Montaño Erick Geovanny]
+ 4. [Inzunza Montaño Erick Geovany]
