@@ -14,9 +14,12 @@ Autor: [Inzunza Montaño Erick Geovanny]
 En esta parte se conecta al Pi pico
 
 Aqui se envía el mensaje “Hola mundo” con el botón Enviar
+
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/c55eb4ea-1099-4c1b-839c-663ae615af5c)
 
+
 En esta imagen se está desconectando  del Pi pico
+
 ![image](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/a0ade724-2b26-4b1d-824d-2e11da5825a6)
 
 # Codigo del c#
