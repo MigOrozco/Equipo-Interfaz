@@ -51,5 +51,6 @@ void loop() {
 }
 ```
 # Fotografia
+![dsad](https://github.com/MigOrozco/Equipo-Interfaz/assets/158230692/6d4a7538-f667-4c8e-8480-883de938a77d)
 
 
